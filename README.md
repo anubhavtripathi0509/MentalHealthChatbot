@@ -1,6 +1,6 @@
 ## Installation
 
-### Backend Setup
+### Project Setup
 
 1. **Clone the repository:**
 
@@ -33,5 +33,5 @@
    ```bash
    npm start
    ```
-   
+
    The app will be available at `http://localhost:3000/`.
